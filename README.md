@@ -5,7 +5,7 @@
 <div>
   <img align="right" height="230" width= "320" alt="coding-time" src="code.gif">
   <h2 align="center">Diouzefy Belfort</h2>
-  <img align="left" height="200" width= "490" alt="bio" src="bio1.png">
+  <img align="left" height="200" width= "500" alt="bio" src="bio1.png">
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
