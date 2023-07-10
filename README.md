@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <img align="right" height="250" width= "340" alt="coding-time" src="code.gif">
+  <img align="right" height="230" width= "320" alt="coding-time" src="code.gif">
   <h2 align="center">Diouzefy Belfort</h2>
   <img align="left" height="200" width= "470" alt="bio" src="bio1.png">
 </div>
