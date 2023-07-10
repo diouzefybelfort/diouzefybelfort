@@ -4,7 +4,7 @@
 
 <div>
   <img align="right" height="250" alt="coding-time" src="code.gif">
-  <h1 align="center">Diouzefy Belfort</h1>
+  <h2 align="center">Diouzefy Belfort</h2>
   <img align="left" height="200" width= "470" alt="coding-time" src="bio1.png">
 </div>
 
