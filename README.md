@@ -8,6 +8,8 @@
   <img align="left" height="200" width= "500" alt="bio" src="bio1.png">
 </div>
 
+<img align="center" height="170em" width= "1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diouzefybelfort&layout=compact&langs_count=16&theme=dracula"/>
+
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <!--
