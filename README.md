@@ -9,7 +9,7 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diouzefybelfort&theme=dracula)](https://git.io/streak-stats)
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diouzefybelfort&layout=compact&langs_count=16&theme=dracula"/>
+
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
