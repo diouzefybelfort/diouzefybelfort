@@ -8,9 +8,6 @@
   <img align="left" height="200" width= "500" alt="bio" src="bio1.png">
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diouzefybelfort&theme=dracula)](https://git.io/streak-stats)
-
-
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <!--
